@@ -1,0 +1,25 @@
+*{
+    font-family: 'Comfortaa', cursive;
+    font-weight: bolder;
+    /* font-family: 'Zen Kurenaido', sans-serif; */
+    /* font-family: 'Arima Madurai', cursive; */
+    /* font-family: 'Jura', sans-serif; */
+    /* font-family: 'Forum', cursive; */ 
+}
+
+
+
+.mx-auto{
+    text-align: center;
+    word-spacing: 1rem;
+    letter-spacing: .32rem;
+}
+
+/* #navbar{
+    background-color: rgb(221, 221, 221);
+} */
+
+.tophead{
+    background-color: rgb(255, 255, 255);
+    opacity:70%;
+}
